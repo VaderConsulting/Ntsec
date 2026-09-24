@@ -24,7 +24,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/Ntsec`.
+Working copy from my Historical Dev folder `VB/Old/Ntsec`.
 Company names in project files: ACN.
 Project description: "Test the Windows Nt 4.0 Security".
 
